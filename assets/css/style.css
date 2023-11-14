@@ -682,44 +682,6 @@ body.active { overflow: hidden; }
  * #TOP RATED
 \*-----------------------------------*/
 
-.top-rated {
-  background: url("../images/top-rated-bg.jpg") no-repeat;
-  background-size: cover;
-  background-position: center;
-  padding-block: var(--section-padding);
-}
-
-
-.top-rated .flex-wrapper { margin-bottom: 50px; }
-
-.top-rated .section-title { margin-bottom: 30px; }
-
-.filter-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-}
-
-.top-rated .filter-btn {
-  color: var(--white);
-  background: var(--raisin-black);
-  font-size: var(--fs-11);
-  font-weight: var(--fw-500);
-  border: 2px solid var(--gunmetal-1);
-  padding: 12px 26px;
-  border-radius: 50px;
-}
-
-.top-rated .filter-btn:focus  { border-color: var(--citrine); }
-
-
-.top-rated.movies-list > li {
-  min-width: 100%;
-  scroll-snap-align: start;
-}
-
 
 
 /*-----------------------------------*\
