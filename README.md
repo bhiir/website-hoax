@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Web Hoax](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
