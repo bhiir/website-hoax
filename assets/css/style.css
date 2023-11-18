@@ -668,7 +668,7 @@ body.active { overflow: hidden; }
 
 .service-text,
 .service-card .card-text {
-  color: var(--gray-x);
+ 
   font-size: var(--fs-9);
   font-weight: var(--fw-500);
   line-height: 1.8;
