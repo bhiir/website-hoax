@@ -606,9 +606,8 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .service {
-  background: url("../images/service-bg.jpg") no-repeat;
+  background: url("../images/cta-bg.jpg") no-repeat;
   background-size: cover;
-  background-position: center;
   padding-block: var(--section-padding);
 }
 
